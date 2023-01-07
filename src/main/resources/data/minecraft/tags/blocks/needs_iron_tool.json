@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "warmod:uranium_ore",
+    "warmod:silicon_ore"
+  ]
+}

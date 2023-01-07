@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GGG",
+    "COP"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "C": {
+      "item": "warmod:cpu"
+    },
+    "O": {
+      "item": "warmod:crude_oil_bucket"
+    },
+    "P": {
+      "item": "warmod:printed_circuit_board"
+    }
+  },
+  "result": {
+    "item": "warmod:oil_refinery",
+    "count": 1
+  }
+}
+

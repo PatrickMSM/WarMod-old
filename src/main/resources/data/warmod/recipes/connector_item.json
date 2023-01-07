@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "PGP",
+    " C "
+  ],
+  "key": {
+    "P": {
+      "item": "warmod:plastic"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "C": {
+      "item": "warmod:cpu"
+    }
+  },
+  "result": {
+    "item": "warmod:cell_phone",
+    "count": 1
+  }
+}
+

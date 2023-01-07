@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warmod:simple_atom_bomb"
+    },
+    {
+      "item": "warmod:cell_phone"
+    }
+  ],
+  "result": {
+    "item": "warmod:simple_atom_bomb_caller"
+  }
+}

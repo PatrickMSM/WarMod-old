@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": { "model": "warmod:block/camera", "uvlock": true },
+    "facing=east":  { "model": "warmod:block/camera", "y":  90, "uvlock": true },
+    "facing=south": { "model": "warmod:block/camera", "y": 180, "uvlock": true },
+    "facing=west":  { "model": "warmod:block/camera", "y": 270, "uvlock": true },
+    "facing=up":    { "model": "warmod:block/camera", "x": 90, "uvlock":  true },
+    "facing=down":  { "model": "warmod:block/camera", "x": 180, "uvlock": true}
+  }
+}

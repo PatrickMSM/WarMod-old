@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "warmod:block/machine_block"
+    }
+  }
+}

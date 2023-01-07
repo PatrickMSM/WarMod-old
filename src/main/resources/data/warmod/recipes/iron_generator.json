@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IMI",
+    " C ",
+    " H "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "M": {
+      "item": "warmod:machine_block"
+    },
+    "C": {
+      "item": "warmod:diamond_cog"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "item": "warmod:iron_generator",
+    "count": 1
+  }
+}
+

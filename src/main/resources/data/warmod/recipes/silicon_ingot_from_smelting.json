@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 4.0,
+  "group": "silicon_ingot",
+  "ingredient": {
+    "item": "warmod:silicon_ore"
+  },
+  "result": "warmod:silicon_ingot"
+}

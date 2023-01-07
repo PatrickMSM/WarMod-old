@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values":
+  [
+    "warmod:crude_oil",
+    "warmod:flowing_crude_oil",
+    "warmod:fuel",
+    "warmod:flowing_fuel"
+  ]
+}

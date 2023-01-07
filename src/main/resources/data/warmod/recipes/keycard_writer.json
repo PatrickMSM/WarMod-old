@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warmod:machine_block"
+    },
+    {
+      "item": "warmod:cpu"
+    },
+    {
+      "item": "warmod:empty_keycard"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+    }
+  ],
+  "result": {
+    "item": "warmod:keycard_writer"
+  }
+}

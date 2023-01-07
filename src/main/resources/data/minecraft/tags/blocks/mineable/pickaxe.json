@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "warmod:water_cannon",
+    "warmod:iron_generator",
+    "warmod:uranium_ore",
+    "warmod:silicon_ore",
+    "warmod:machine_block"
+  ]
+}

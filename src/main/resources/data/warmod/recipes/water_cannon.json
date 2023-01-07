@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CII",
+    "RWW",
+    "ISI"
+  ],
+  "key": {
+    "C": {
+      "item": "warmod:iron_cog"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "warmod:water_cannon",
+    "count": 1
+  }
+}
+

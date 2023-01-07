@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": { "model": "warmod:block/one_way_dirt", "uvlock": true },
+    "facing=east":  { "model": "warmod:block/one_way_dirt", "y":  90, "uvlock": true },
+    "facing=south": { "model": "warmod:block/one_way_dirt", "y": 180, "uvlock": true },
+    "facing=west":  { "model": "warmod:block/one_way_dirt", "y": 270, "uvlock": true },
+    "facing=up":    { "model": "warmod:block/one_way_dirt", "x": 90, "uvlock":  true },
+    "facing=down":  { "model": "warmod:block/one_way_dirt", "x": 180, "uvlock": true}
+  }
+}

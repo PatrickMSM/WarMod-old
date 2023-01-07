@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "IGI",
+    "CMC"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:black_dye"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "M": {
+      "item": "warmod:machine_block"
+    },
+    "C": {
+      "item": "warmod:cpu"
+    }
+  },
+  "result": {
+    "item": "warmod:camera",
+    "count": 1
+  }
+}
+

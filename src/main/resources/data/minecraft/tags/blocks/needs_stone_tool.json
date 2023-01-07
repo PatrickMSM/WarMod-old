@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "warmod:water_cannon",
+    "warmod:iron_generator",
+    "warmod:keycard_reader",
+    "warmod:keycard_writer",
+    "warmod:machine_block"
+  ]
+}

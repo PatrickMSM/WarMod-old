@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "GUG",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "U": {
+      "item": "warmod:enriched_uranium"
+    }
+  },
+  "result": {
+    "item": "warmod:nuclear_battery",
+    "count": 1
+  }
+}
+

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "warmod:block/oil_refinery"
+    }
+  }
+}

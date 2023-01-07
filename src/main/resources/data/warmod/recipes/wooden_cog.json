@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "A A",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "warmod:wooden_cog",
+    "count": 1
+  }
+}
+

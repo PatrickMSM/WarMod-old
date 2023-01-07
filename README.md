@@ -1,0 +1,2 @@
+# WarMod-old
+This was a mod I worked on for quite some time until I abandoned it and released it. This was originally intended for an SMP. The mod might be a bit outdated. There are some interesting things in the mod you can take inspiration from, like custom render layers, or even cameras but those might not work (the monochrome shader is crashing).

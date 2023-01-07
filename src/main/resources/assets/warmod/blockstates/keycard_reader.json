@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "warmod:block/keycard_reader", "uvlock": true },
+    "facing=east":  { "model": "warmod:block/keycard_reader", "y":  90, "uvlock": true },
+    "facing=south": { "model": "warmod:block/keycard_reader", "y": 180, "uvlock": true },
+    "facing=west":  { "model": "warmod:block/keycard_reader", "y": 270, "uvlock": true }
+  }
+}

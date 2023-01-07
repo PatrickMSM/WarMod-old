@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warmod:plastic"
+    },
+    {
+      "item": "warmod:cpu"
+    }
+  ],
+  "result": {
+    "item": "warmod:empty_keycard"
+  }
+}

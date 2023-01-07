@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    " M ",
+    "CCC"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "M": {
+      "item": "warmod:machine_block"
+    },
+    "C": {
+      "item": "warmod:cpu"
+    }
+  },
+  "result": {
+    "item": "warmod:camera_control",
+    "count": 1
+  }
+}
+

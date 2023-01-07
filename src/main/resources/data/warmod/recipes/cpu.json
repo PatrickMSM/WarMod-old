@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warmod:printed_circuit_board"
+    },
+    {
+      "item": "warmod:silicon_ingot"
+    },
+    {
+      "item": "warmod:silicon_ingot"
+    }
+  ],
+  "result": {
+    "item": "warmod:cpu"
+  }
+}

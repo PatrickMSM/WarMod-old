@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "warmod:block/water_cannon", "uvlock": false },
+    "facing=east":  { "model": "warmod:block/water_cannon", "y":  90, "uvlock": false },
+    "facing=south": { "model": "warmod:block/water_cannon", "y": 180, "uvlock": false },
+    "facing=west":  { "model": "warmod:block/water_cannon", "y": 270, "uvlock": false }
+  }
+}

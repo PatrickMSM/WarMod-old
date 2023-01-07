@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warmod:keycard_writer"
+    },
+    {
+      "item": "warmod:cpu"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "result": {
+    "item": "warmod:keycard_reader"
+  }
+}
